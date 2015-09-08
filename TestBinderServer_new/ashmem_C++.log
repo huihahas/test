@@ -1,0 +1,81 @@
+I/        ( 1433): TestBinderService before
+I/TestBinderService( 1433): Enter TestBinderService::instantiate
+D/TestBinderService( 1433):  TestBinderServicet
+D/TestBinderService( 1433): ServiceManager addService ret=0
+D/TestBinderService( 1433): instantiate> end
+I/        ( 1433): TestBinderService End
+D/KeyguardUpdateMonitor( 1058): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor( 1058): handleTimeUpdate
+I/        ( 1436): int the main function
+I/ITeeveePlayerService( 1436): Enter BpTestBinderService add,a = 3 , b = 4
+I/ITeeveePlayerService( 1433): Enter BnTestBinderService add,a = 3 , b = 4
+I/TestBinderService( 1433): TestBinderService::add a = 3, b = 4.
+D/        ( 1433):  sum2 a = 3, b = 4
+I/TestBinderService( 1433): TestBinderService::result = 7.
+I/ITeeveePlayerService( 1433): BnTestBinderService sum = 7
+I/ITeeveePlayerService( 1436): BpTestBinderService sum = 7
+I/TestBinserService( 1436): pipe_fd[0] = 28, pipe_fd[1] = 29
+I/ITeeveePlayerService( 1436): Enter BpTestBinderService allocbuf,pipe_fd = 28 , bs = 1024
+I/ITeeveePlayerService( 1433): Enter BnTestBinderService add,pipe_fd = 28 , bs = 1024
+I/TestBinderService( 1433): TestBinderService::allocbuf pipe_fd = 28, bs = 1024.
+I/TestBinderService( 1433): m_pipe_fd = 29
+I/TestBinderService( 1433): TestBinderService::m_fd = 30. m_buf = 0x40107000
+I/TestBinderService( 1433): fd2 = 31
+I/ITeeveePlayerService( 1433): 2BnTestBinderService fd = 30
+I/ITeeveePlayerService( 1433): fd2 = 32
+I/ITeeveePlayerService( 1436): BpTestBinderService fd = 30
+I/ITeeveePlayerService( 1436): fd2 = 31
+I/TestBinserService( 1436): m_fd = 31
+I/TestBinserService( 1436): m_fd = 28
+I/TestBinserService( 1436): m_fd = 28 m_buf = 0x40107000
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+I/TestBinserService( 1436): TestBinderClient::read_len = -1.m_buf = from server
+I/TestBinserService( 1436): TestBinderClient::write_len = 12.
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 12.buf = from client
+init: untracked pid 1436 exited
+I/TestBinderService( 1433): TestBinderService::write_len = -1.
+I/TestBinderService( 1433): TestBinderService::read_len = 0.buf = from client
+init: untracked pid 1433 exited
+I/ServiceManager(  766): service 'my.test.binder' died
